@@ -1,6 +1,8 @@
-## Hi there 👋
-
-## I'm AJPham.
+<div align="center">
+  <h2> 
+    Hi, there! I am AJPham <img src="https://github.com/phamtai97/phamtai97/blob/main/gifs/hi.gif" width="30px">
+  </h2>
+</div>
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering at HCM University of Science.  
@@ -18,9 +20,10 @@
 Technologies that I've been learning and I've picked up along my programming journey.
 
 ![Vertx](https://img.shields.io/badge/-Vertx-yellow?&logo=eclipsevert.x)
-![TiDB](https://img.shields.io/badge/-TiDB-yellow)
 ![Ignite](https://img.shields.io/badge/-Ignite-yellow)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-yellow)
+![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-yellow?&logo=apachekafka)
+![TiDB](https://img.shields.io/badge/-TiDB-yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?&logo=mongoDB&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-yellow?&logo=Redis&logoColor=DC382D)
@@ -34,5 +37,6 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Nginx](https://img.shields.io/badge/-Nginx-yellow?&logo=Nginx&logoColor=269539)
 
 ## My Stats
+![visitors](https://visitor-badge.glitch.me/badge?page_id=phamtai97/phamtai97)
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=phamtai97&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtai97&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
