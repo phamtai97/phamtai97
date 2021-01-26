@@ -1,20 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
 ## I'm AJPham.
 
 ### 💻 &nbsp;About Me
-🎓   Studying Software Engineering at HCM University of Science.
+🎓  Studying Software Engineering at HCM University of Science.  
 🔭  I am currently working at ZaloPay as Software Engineer.
 
 ### 🛠 &nbsp;Tech Stack
-#### 🌐 &nbsp;Languages
+#### Languages
 
 ![Java](https://img.shields.io/badge/-Java-green?&logo=Java&logoColor=007396)
 ![Go](https://img.shields.io/badge/-Golang-green?&logo=Go&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
 
-#### ⚙️ &nbsp;Technologies
+#### Technologies
 
 ![Vertx](https://img.shields.io/badge/-Vertx-yellow?&logo=eclipsevert.x)
 ![gRPC](https://img.shields.io/badge/-gRPC-yellow)
