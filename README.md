@@ -15,17 +15,19 @@
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
 
 #### Technologies
+Technologies that I've been learning and I've picked up along my programming journey.
 
 ![Vertx](https://img.shields.io/badge/-Vertx-yellow?&logo=eclipsevert.x)
-![gRPC](https://img.shields.io/badge/-gRPC-yellow)
-![TiDB](https://img.shields.io/badge/-TiDB-yellow)
+![TiDB](https://img.shields.io/badge/-TiDB-yellow)
 ![Ignite](https://img.shields.io/badge/-Ignite-yellow)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?&logo=mongoDB&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-yellow?&logo=Redis&logoColor=DC382D)
 ![Consul](https://img.shields.io/badge/-Consul-yellow?&logo=Consul&logoColor=CA2171)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-yellow?&logo=Prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/-Grafana-yellow?&logo=Grafana&logoColor=E6522C)
+![gRPC](https://img.shields.io/badge/-gRPC-yellow?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1)
 ![Docker](https://img.shields.io/badge/-Docker-yellow?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-yellow?&logo=React)
