@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me
 🎓  Studying Software Engineering at HCM University of Science.  
-🔭  I am currently working at ZaloPay as Software Engineer.
+🔭  I am currently working at VNG as Software Engineer.
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
